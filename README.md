@@ -1,1 +1,1 @@
-# graphql-forntend
+# graphql-frontend
